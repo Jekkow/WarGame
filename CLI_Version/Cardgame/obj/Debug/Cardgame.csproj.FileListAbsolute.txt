@@ -1,0 +1,16 @@
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_WithRepeat\Cardgame\obj\Debug\Cardgame.csprojAssemblyReference.cache
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_WithRepeat\Cardgame\obj\Debug\Cardgame.csproj.CoreCompileInputs.cache
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_WithRepeat\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.exe.manifest
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_WithRepeat\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.exe
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_WithRepeat\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.pdb
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\bin\Debug\Cardgame_1850385Dammer_Jacco.exe.config
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\bin\Debug\Cardgame_1850385Dammer_Jacco.exe.manifest
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\bin\Debug\Cardgame_1850385Dammer_Jacco.application
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\bin\Debug\Cardgame_1850385Dammer_Jacco.exe
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\bin\Debug\Cardgame_1850385Dammer_Jacco.pdb
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\obj\Debug\Cardgame.csprojAssemblyReference.cache
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\obj\Debug\Cardgame.csproj.CoreCompileInputs.cache
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.exe.manifest
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.application
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.exe
+D:\School\Zuyd Hogeschool\AD_Leerjaar_1\A1D1_Programmeerconcepten\Scripts\Cardgame_1850385Dammer_Jacco\Cardgame\obj\Debug\Cardgame_1850385Dammer_Jacco.pdb
